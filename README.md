@@ -1,1 +1,4 @@
-# AC1 ADS4 2024
+AC1 - Desenvolvimento Web Front-End 
+4º Semestre de 2024
+alunos: João Vitor Amaral Franzoni
+RA: 236279
